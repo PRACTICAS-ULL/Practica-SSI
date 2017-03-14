@@ -17,4 +17,4 @@ bytes, por lo que es muy rápido en software.
 
 ## Ejecución
  * El archivo principal donde esta la clase con el algoritmo rc4 es rc4.rb, **se bajara entonces rc4.rb y cuanquier archivo de ejemplo**
- y pondremo en linea de comando con esto dos archivo ruby **ejemplo1.rb**
+ y pondremo en linea de comando con esto dos archivo **ruby ejemplo1.rb**
