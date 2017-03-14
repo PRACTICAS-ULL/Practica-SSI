@@ -12,5 +12,5 @@ Vernam propone convertir el texto plano en una cadena de bits (la cual puede ser
 de manera que esto le da una mayor robustez  al cifrado ya que hasta ahora los algoritmos  
 estudiados veían al carácter como la unidad más pequeña e puede ser representado en código ASCII) de manera que esto le da una mayor robustez al cifrado, ya que hasta ahora los algoritmos estudiados veían el caracter como unidad más pequeña e invisible durante el proceso de cifrado-descifrado, y Vernam viene a mostrar que cada carácter puede ser representado y utilizado durante el proceso en fracciones mas pequeñas, también sugiere emplear como clave una secuencia binaria aleatoria o pseudoaleatoria del mismo tamaño que el mensaje en claro, y de manera relevante que la clave fuese de un solo uso (cifrar para transmitir). Después aplicar una operación OR Exclusiva, bit a bit con estas dos cadenas para obtener el criptograma, así el texto cifrado no puede proporcionar información alguna al criptoanalista.
 
-## Ejecucino 
+## Ejecucion 
   * Solo bajar y hacer ruby vernam.rb
