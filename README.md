@@ -4,3 +4,4 @@
     * Cifrado de vernam
     * Cifrado vigenere
     * Cifrado rc4
+    * Cifrado A5/1
